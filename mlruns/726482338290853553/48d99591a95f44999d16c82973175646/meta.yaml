@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hritvikdadhich/medical-insurance/mlruns/726482338290853553/48d99591a95f44999d16c82973175646/artifacts
+end_time: 1756854251887
+entry_point_name: ''
+experiment_id: '726482338290853553'
+lifecycle_stage: active
+run_id: 48d99591a95f44999d16c82973175646
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756854250553
+status: 3
+tags: []
+user_id: hritvikdadhich

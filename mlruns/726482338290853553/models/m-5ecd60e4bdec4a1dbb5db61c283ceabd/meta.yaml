@@ -1,0 +1,10 @@
+artifact_location: file:///Users/hritvikdadhich/medical-insurance/mlruns/726482338290853553/models/m-5ecd60e4bdec4a1dbb5db61c283ceabd/artifacts
+creation_timestamp: 1756854246541
+experiment_id: '726482338290853553'
+last_updated_timestamp: 1756854249022
+model_id: m-5ecd60e4bdec4a1dbb5db61c283ceabd
+model_type: null
+name: model
+source_run_id: 5face371302f48419a26f763b6585819
+status: 2
+status_message: null

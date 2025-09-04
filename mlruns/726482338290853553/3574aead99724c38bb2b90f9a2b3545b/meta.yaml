@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hritvikdadhich/medical-insurance/mlruns/726482338290853553/3574aead99724c38bb2b90f9a2b3545b/artifacts
+end_time: 1756854250553
+entry_point_name: ''
+experiment_id: '726482338290853553'
+lifecycle_stage: active
+run_id: 3574aead99724c38bb2b90f9a2b3545b
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756854249024
+status: 3
+tags: []
+user_id: hritvikdadhich

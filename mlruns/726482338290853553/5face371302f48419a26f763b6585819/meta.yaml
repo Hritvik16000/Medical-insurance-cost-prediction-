@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hritvikdadhich/medical-insurance/mlruns/726482338290853553/5face371302f48419a26f763b6585819/artifacts
+end_time: 1756854249023
+entry_point_name: ''
+experiment_id: '726482338290853553'
+lifecycle_stage: active
+run_id: 5face371302f48419a26f763b6585819
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756854246515
+status: 3
+tags: []
+user_id: hritvikdadhich
