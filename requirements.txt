@@ -1,0 +1,26 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+
+# Visualization
+matplotlib>=3.8
+plotly>=5.22
+
+# Machine Learning
+scikit-learn>=1.5
+xgboost>=2.1
+
+# Experiment Tracking
+mlflow>=2.15
+
+# Model persistence
+joblib>=1.4
+
+# Deployment
+streamlit>=1.37
+
+# Explainability (optional, but useful)
+shap>=0.46
+
+# SQLite utilities
+sqlite-utils>=3.36
